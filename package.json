@@ -1,0 +1,41 @@
+{
+  "name": "roster-match",
+  "version": "0.1.0",
+  "description": "把听到的中文名字对到一份花名册上：按音节比拼音、多音姓、口音归一、字形兜底；拿不准时给候选和理由，不替你下结论。",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "pinyin-table.js",
+    "README.md",
+    "LICENSE",
+    "NOTICE.md",
+    "CLA.md"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "pinyin",
+    "chinese",
+    "name-matching",
+    "fuzzy",
+    "speech-recognition",
+    "roster",
+    "拼音",
+    "同音字"
+  ],
+  "author": "水滴匠 <shimeeren@gmail.com> (https://github.com/charlenemercury)",
+  "license": "AGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlenemercury/roster-match.git"
+  },
+  "bugs": {
+    "url": "https://github.com/charlenemercury/roster-match/issues"
+  },
+  "homepage": "https://github.com/charlenemercury/roster-match#readme",
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
+}
