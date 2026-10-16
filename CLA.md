@@ -90,4 +90,4 @@ I have read and agree to the CLA of this project.
 
 **项目维护者**：水滴匠（个人开发者，非公司主体；GitHub [@charlenemercury](https://github.com/charlenemercury)）
 **协议版本**：v1.0
-**联系方式**：GitHub 主页联系
+**联系方式**：通过 GitHub 主页 [@charlenemercury](https://github.com/charlenemercury) 的 Issues 联系
